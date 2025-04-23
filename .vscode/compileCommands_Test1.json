@@ -1,0 +1,58 @@
+[
+	{
+		"file": "C:\\Users\\TinnaXD\\OneDrive\\Documents\\Unreal Projects\\Test1 5.5\\Source\\Test1\\Test1.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\TinnaXD\\OneDrive\\Documents\\Unreal Projects\\Test1 5.5\\.vscode\\compileCommands_Test1\\Test1.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\TinnaXD\\OneDrive\\Documents\\Unreal Projects\\Test1 5.5\\Source\\Test1\\Test1.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\TinnaXD\\OneDrive\\Documents\\Unreal Projects\\Test1 5.5\\.vscode\\compileCommands_Test1\\Test1.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\TinnaXD\\OneDrive\\Documents\\Unreal Projects\\Test1 5.5\\Source\\Test1\\Test1.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\TinnaXD\\OneDrive\\Documents\\Unreal Projects\\Test1 5.5\\.vscode\\compileCommands_Test1\\Test1.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\TinnaXD\\OneDrive\\Documents\\Unreal Projects\\Test1 5.5\\Source\\Test1\\Test1Character.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\TinnaXD\\OneDrive\\Documents\\Unreal Projects\\Test1 5.5\\.vscode\\compileCommands_Test1\\Test1.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\TinnaXD\\OneDrive\\Documents\\Unreal Projects\\Test1 5.5\\Source\\Test1\\Test1Character.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\TinnaXD\\OneDrive\\Documents\\Unreal Projects\\Test1 5.5\\.vscode\\compileCommands_Test1\\Test1.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\TinnaXD\\OneDrive\\Documents\\Unreal Projects\\Test1 5.5\\Source\\Test1\\Test1GameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\TinnaXD\\OneDrive\\Documents\\Unreal Projects\\Test1 5.5\\.vscode\\compileCommands_Test1\\Test1.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\TinnaXD\\OneDrive\\Documents\\Unreal Projects\\Test1 5.5\\Source\\Test1\\Test1GameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\TinnaXD\\OneDrive\\Documents\\Unreal Projects\\Test1 5.5\\.vscode\\compileCommands_Test1\\Test1.1.rsp"
+		],
+		"directory": "D:\\Unreal\\UE_5.5\\Engine\\Source"
+	}
+]

@@ -1,0 +1,20 @@
+{
+	"configurations": [
+		{
+			"name": "Test1Editor Editor Win64 Development (Test1)",
+			"compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"cStandard": "c17",
+			"cppStandard": "c++20",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\TinnaXD\\OneDrive\\Documents\\Unreal Projects\\Test1 5.5\\.vscode\\compileCommands_Test1.json"
+		},
+		{
+			"name": "Win32",
+			"compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"cStandard": "c17",
+			"cppStandard": "c++20",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\TinnaXD\\OneDrive\\Documents\\Unreal Projects\\Test1 5.5\\.vscode\\compileCommands_Default.json"
+		}
+	]
+}
